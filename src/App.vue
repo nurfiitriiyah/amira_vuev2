@@ -4,9 +4,7 @@
   </div>
 </template>
 
-<!--<script>-->
-<!--</script>-->
-
 <style>
 @import "./assets/css/material-dashboard.css";
+
 </style>
