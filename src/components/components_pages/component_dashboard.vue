@@ -91,7 +91,7 @@
   import componentHeader from '../components_layouts/component_heads'
 
   const axios = require('axios')
-  const API_URL = 'http://localhost:10009/dashboard'
+  const API_URL = 'http://35.240.214.149:10009/dashboard'
   import {Bar} from 'vue-chartjs'
 
   export default {
